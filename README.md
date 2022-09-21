@@ -1,3 +1,3 @@
-# Let's Connect
+# Let's Grow Together
 
-> Social network for developers
+> Developers Interaction Portal
