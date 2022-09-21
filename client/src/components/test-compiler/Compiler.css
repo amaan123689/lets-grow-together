@@ -1,0 +1,47 @@
+.language {
+    display: inline;
+}
+
+.heading {
+    font-size: 20px;
+}
+
+#source {
+    width: 100% !important;
+    background: #cccccc52;
+    height: 40vh;
+    font-size: 15px;
+    resize: vertical;
+}
+
+#input {
+    background: #cccccc52;
+    width: 45.6%;
+    height: 10vh;
+    resize: vertical;
+    font-size: 17px;
+}
+
+.input-code {
+    width: 50vh;
+}
+
+#output {
+    /* background: #cccccc52;
+    width: 50%;
+    height: 25%;
+    
+    top: 7.6%;
+    font-size: 18px;
+    right: 0;
+    resize: none; */
+    background: #cccccc52;
+    width: 45.6%;
+    height: 16vh;
+    resize: vertical;
+    font-size: 17px;
+}
+
+.language {
+    width: 150px;
+}
